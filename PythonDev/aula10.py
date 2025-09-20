@@ -1,2 +1,0 @@
-#usando tuplas
-
